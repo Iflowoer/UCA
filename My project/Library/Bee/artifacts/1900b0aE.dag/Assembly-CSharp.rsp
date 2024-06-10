@@ -359,6 +359,8 @@
 "Assets/Script/GameManager.cs"
 "Assets/Script/Jumper.cs"
 "Assets/Script/PlayerController.cs"
+"Assets/Script/Rotate.cs"
+"Assets/Script/VectorTest.cs"
 "Assets/Script/Zoo.cs"
 -langversion:9.0
 
